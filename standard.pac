@@ -108,7 +108,6 @@ var domains = {
   "t.me": 1,
   "telegram.me": 1,
   "telegram.org": 1,
-  "telegramdownload.com": 1,
 // Tumblr
   "tumblr.com": 1,
 // Twitter
