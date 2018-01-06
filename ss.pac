@@ -4,8 +4,10 @@
 var proxy = "SOCKS5 127.0.0.1:1080;";
 
 var domains = {
-// Blogger
-  
+// BBC
+  "bbc.co.uk": 1,
+  "bbci.co.uk": 1,
+  "bbc.com": 1,
 // Disqus
   "disqus.com": 1,
   "disquscdn.com": 1,
