@@ -105,6 +105,7 @@ var domains = {
   "line-scdn.net": 1,
   "static.line.naver.jp": 1,
 // Telegram
+  "t.me": 1,
   "telegram.me": 1,
   "telegram.org": 1,
   "telegramdownload.com": 1,
