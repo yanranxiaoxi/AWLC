@@ -20,6 +20,8 @@ var domains = {
   "dropbox.com": 1,
   "dropboxstatic.com": 1,
   "dropboxusercontent.com": 1,
+// DuckDuckGo
+  "duckduckgo.com": 1,
 // Facebook
   "facebook.br": 1,
   "facebook.com": 1,
