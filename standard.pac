@@ -100,7 +100,6 @@ var domains = {
   "googlesyndication.com": 1,
   "googleusercontent.com": 1,
   "googlevideo.com": 1,
-  "ggpht.com": 1,
   //"gstatic.com": 1,
   // Rule out fonts begin
   "*[!s].gstatic.com": 1,
@@ -110,6 +109,7 @@ var domains = {
   "*[!f]onts.gstatic.com": 1,
   // Rule out fonts end
   "thinkwithgoogle.com": 1,
+  "ytimg.com": 1,
 // Instagram
   "cdninstagram.com": 1,
   "instagram.com": 1,
@@ -135,8 +135,8 @@ var domains = {
 // Wikipedia
   "zh.wikipedia.org": 1,
 // Youtube
+  "ggpht.com": 1,
   "youtube.com": 1,
-  "ytimg.com": 1,
 // else
   "atdmt.com": 1,
   "greatfirewallofchina.org": 1,
