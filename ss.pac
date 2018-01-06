@@ -102,6 +102,8 @@ var domains = {
   "twimg.com": 1,
   "twitter.com": 1,
   "twitter.jp": 1,
+// Wikipedia
+  "zh.wikipedia.org": 1,
 // else
   "atdmt.com": 1,
   "greatfirewallofchina.org": 1,
