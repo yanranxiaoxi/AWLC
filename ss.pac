@@ -108,7 +108,6 @@ var domains = {
   "zh.wikipedia.org": 1,
 // else
   "atdmt.com": 1,
-  "crwdcntrl.net": 1,
   "greatfirewallofchina.org": 1,
   "rawgit.com": 1
 };
