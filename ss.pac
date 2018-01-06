@@ -4,6 +4,8 @@
 var proxy = "SOCKS5 127.0.0.1:1080;";
 
 var domains = {
+// Blogger
+  
 // Disqus
   "disqus.com": 1,
   "disquscdn.com": 1,
@@ -24,6 +26,11 @@ var domains = {
   "fbcdn.net": 1,
   "fbsbx.com": 1,
 // Google
+  "*.google": 1,
+  "blogger.com": 1,
+  "blogspot.com": 1,
+  "blogspot.hk": 1,
+  "blogspot.jp": 1,
   //"doubleclick.net": 1,
   "goo.gl": 1,
   "google.ae": 1,
@@ -88,6 +95,8 @@ var domains = {
   "thinkwithgoogle.com": 1,
   "youtube.com": 1,
   "ytimg.com": 1,
+// Tumblr
+  "tumblr.com": 1,
 // Twitter
   "t.co": 1,
   "twimg.com": 1,
