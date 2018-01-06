@@ -8,5 +8,3 @@
 ### 完全
 包含近乎所有被屏蔽的站点，由KyonLi提供。  
 [https://raw.githubusercontent.com/KyonLi/ss-pac/master/ss.pac](https://raw.githubusercontent.com/KyonLi/ss-pac/master/ss.pac)
-
-<a href="https://raw.githubusercontent.com/CollageTomato/PersonalPAC/master/advanced.pac" target="_blank">https://raw.githubusercontent.com/CollageTomato/PersonalPAC/master/advanced.pac</a>
