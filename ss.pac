@@ -8,6 +8,11 @@ var domains = {
   "bbc.co.uk": 1,
   "bbci.co.uk": 1,
   "bbc.com": 1,
+//Blogger
+  "blogger.com": 1,
+  "blogspot.com": 1,
+  "blogspot.hk": 1,
+  "blogspot.jp": 1,
 // Disqus
   "disqus.com": 1,
   "disquscdn.com": 1,
@@ -29,10 +34,6 @@ var domains = {
   "fbsbx.com": 1,
 // Google
   "*.google": 1,
-  "blogger.com": 1,
-  "blogspot.com": 1,
-  "blogspot.hk": 1,
-  "blogspot.jp": 1,
   //"doubleclick.net": 1,
   "goo.gl": 1,
   "google.ae": 1,
@@ -95,8 +96,6 @@ var domains = {
   "ggpht.com": 1,
   "gstatic.com": 1,
   "thinkwithgoogle.com": 1,
-  "youtube.com": 1,
-  "ytimg.com": 1,
 // Instagram
   "cdninstagram.com": 1,
   "instagram.com: 1,
@@ -109,6 +108,9 @@ var domains = {
   "twitter.jp": 1,
 // Wikipedia
   "zh.wikipedia.org": 1,
+// Youtube
+  "youtube.com": 1,
+  "ytimg.com": 1,
 // else
   "atdmt.com": 1,
   "greatfirewallofchina.org": 1,
