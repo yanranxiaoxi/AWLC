@@ -4,7 +4,12 @@
 var proxy = "SOCKS5 127.0.0.1:1080;";
 
 var domains = {
+// Dropbox
+  "dropbox.com": 1,
+  "dropboxstatic.com": 1,
+  "dropboxusercontent.com": 1,
 // Facebook
+  "atdmt.com": 1,
   "facebook.br": 1,
   "facebook.com": 1,
   "facebook.hu": 1,
@@ -15,6 +20,7 @@ var domains = {
   "fb.com": 1,
   "fb.me": 1,
   "fbcdn.net": 1,
+  "fbsbx.com": 1,
 // Google
   //"doubleclick.net": 1,
   "goo.gl": 1,
@@ -76,7 +82,7 @@ var domains = {
   "googleusercontent.com": 1,
   "googlevideo.com": 1,
   "ggpht.com": 1,
-  //"gstatic.com": 1,
+  "gstatic.com": 1,
   "thinkwithgoogle.com": 1,
   "youtube.com": 1,
   "ytimg.com": 1,
