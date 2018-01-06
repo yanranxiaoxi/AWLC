@@ -88,13 +88,27 @@ var domains = {
   "google.tt": 1,
   "google.vu": 1,
   "google.ws": 1,
-  "googleapis.com": 1,
+  //"googleapis.com": 1,
+  // Rule out fonts begin
+  "*[!s].googleapis.com": 1,
+  "*[!t]?.googleapis.com": 1,
+  "*[!n]??.googleapis.com": 1,
+  "*[!o]???.googleapis.com": 1,
+  "*[!f]????.googleapis.com": 1,
+  // Rule out fonts end
   //"googletagservices.com": 1,
   "googlesyndication.com": 1,
   "googleusercontent.com": 1,
   "googlevideo.com": 1,
   "ggpht.com": 1,
-  "gstatic.com": 1,
+  //"gstatic.com": 1,
+  // Rule out fonts begin
+  "*[!s].gstatic.com": 1,
+  "*[!t]?.gstatic.com": 1,
+  "*[!n]??.gstatic.com": 1,
+  "*[!o]???.gstatic.com": 1,
+  "*[!f]????.gstatic.com": 1,
+  // Rule out fonts end
   "thinkwithgoogle.com": 1,
 // Instagram
   "cdninstagram.com": 1,
