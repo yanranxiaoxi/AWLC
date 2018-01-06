@@ -99,6 +99,10 @@ var domains = {
 // Instagram
   "cdninstagram.com": 1,
   "instagram.com": 1,
+// Line
+  "line.me": 1,
+  "line-apps.com": 1,
+  "line-scdn.net": 1,
 // Tumblr
   "tumblr.com": 1,
 // Twitter
