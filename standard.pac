@@ -104,6 +104,10 @@ var domains = {
   "line-apps.com": 1,
   "line-scdn.net": 1,
   "static.line.naver.jp": 1,
+// Telegram
+  "telegram.me": 1,
+  "telegram.org": 1,
+  "telegramdownload.com": 1,
 // Tumblr
   "tumblr.com": 1,
 // Twitter
@@ -111,6 +115,9 @@ var domains = {
   "twimg.com": 1,
   "twitter.com": 1,
   "twitter.jp": 1,
+// WhatsApp
+  "whatsapp.com": 1,
+  "whatsapp.net": 1,
 // Wikipedia
   "zh.wikipedia.org": 1,
 // Youtube
