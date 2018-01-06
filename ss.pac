@@ -98,7 +98,7 @@ var domains = {
   "thinkwithgoogle.com": 1,
 // Instagram
   "cdninstagram.com": 1,
-  "instagram.com: 1,
+  "instagram.com": 1,
 // Tumblr
   "tumblr.com": 1,
 // Twitter
