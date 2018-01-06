@@ -6,6 +6,7 @@ var proxy = "SOCKS5 127.0.0.1:1080;";
 var domains = {
 // Disqus
   "disqus.com": 1,
+  "disquscdn.com": 1,
 // Dropbox
   "dropbox.com": 1,
   "dropboxstatic.com": 1,
