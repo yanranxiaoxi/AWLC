@@ -32,6 +32,10 @@ var domains = {
   "fb.me": 1,
   "fbcdn.net": 1,
   "fbsbx.com": 1,
+// Flickr
+  "flickr.com": 1,
+  "staticflickr.com": 1,
+  "yimg.com": 1,
 // Google
   "*.google": 1,
   //"doubleclick.net": 1,
