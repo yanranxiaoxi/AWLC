@@ -4,12 +4,13 @@
 var proxy = "SOCKS5 127.0.0.1:1080;";
 
 var domains = {
+// Disqus
+  "disqus.com": 1,
 // Dropbox
   "dropbox.com": 1,
   "dropboxstatic.com": 1,
   "dropboxusercontent.com": 1,
 // Facebook
-  "atdmt.com": 1,
   "facebook.br": 1,
   "facebook.com": 1,
   "facebook.hu": 1,
@@ -92,6 +93,7 @@ var domains = {
   "twitter.com": 1,
   "twitter.jp": 1,
 // else
+  "atdmt.com": 1,
   "greatfirewallofchina.org": 1,
   "rawgit.com": 1
 };
