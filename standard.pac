@@ -126,6 +126,7 @@ var domains = {
   "static.line.naver.jp": 1,
 // OneDrive
   "onedrive.live.com": 1,
+  "spoprod-a.akamaihd.net": 1,
 // Telegram
   "t.me": 1,
   "telegram.me": 1,
