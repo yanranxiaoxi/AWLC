@@ -124,6 +124,8 @@ var domains = {
   "line-apps.com": 1,
   "line-scdn.net": 1,
   "static.line.naver.jp": 1,
+// OneDrive
+  "onedrive.live.com": 1,
 // Telegram
   "t.me": 1,
   "telegram.me": 1,
