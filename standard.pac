@@ -127,6 +127,17 @@ var domains = {
 // OneDrive
   "onedrive.live.com": 1,
   "spoprod-a.akamaihd.net": 1,
+// Pinterest
+  "pinimg.com": 1,
+  "pinterest.at": 1,
+  "pinterest.co.kr": 1,
+  "pinterest.com": 1,
+  "pinterest.de": 1,
+  "pinterest.dk": 1,
+  "pinterest.fr": 1,
+  "pinterest.jp": 1,
+  "pinterest.nl": 1,
+  "pinterest.se": 1,
 // Telegram
   "t.me": 1,
   "telegram.me": 1,
