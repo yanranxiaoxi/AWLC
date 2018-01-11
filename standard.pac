@@ -95,29 +95,15 @@ var domains = {
   "google.vu": 1,
   "google.ws": 1,
   "googleapis.com": 1,
-  // Rule out fonts begin
-  //"[!s].googleapis.com": 1,
-  //"[!t]s.googleapis.com": 1,
-  //"[!n]ts.googleapis.com": 1,
-  //"[!o]nts.googleapis.com": 1,
-  //"[!f]onts.googleapis.com": 1,
-  // Rule out fonts end
   //"googletagservices.com": 1,
   "googlesyndication.com": 1,
   "googleusercontent.com": 1,
   "googlevideo.com": 1,
   "gstatic.com": 1,
-  "@@encrypted-tbn0.gstatic.com": 1,
-  "@@ssl.gstatic.com": 1,
-  // Rule out fonts begin
-  //"[!s].gstatic.com": 1,
-  //"[!t]s.gstatic.com": 1,
-  //"[!n]ts.gstatic.com": 1,
-  //"[!o]nts.gstatic.com": 1,
-  //"[!f]onts.gstatic.com": 1,
-  // Rule out fonts end
   "thinkwithgoogle.com": 1,
   "ytimg.com": 1,
+  "@@encrypted-tbn0.gstatic.com": 1,
+  "@@ssl.gstatic.com": 1,
 // Instagram
   "cdninstagram.com": 1,
   "instagram.com": 1,
