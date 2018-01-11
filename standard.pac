@@ -95,6 +95,7 @@ var domains = {
   "google.vu": 1,
   "google.ws": 1,
   "googleapis.com": 1,
+  //"googletagmanager.com": 1,
   //"googletagservices.com": 1,
   "googlesyndication.com": 1,
   "googleusercontent.com": 1,
@@ -102,8 +103,8 @@ var domains = {
   "gstatic.com": 1,
   "thinkwithgoogle.com": 1,
   "ytimg.com": 1,
-  "@@encrypted-tbn0.gstatic.com": 1,
-  "@@ssl.gstatic.com": 1,
+  "encrypted-tbn0.gstatic.com": 0,
+  "ssl.gstatic.com": 0,
 // Instagram
   "cdninstagram.com": 1,
   "instagram.com": 1,
