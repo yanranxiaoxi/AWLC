@@ -107,6 +107,7 @@ var domains = {
   "googleusercontent.com": 1,
   "googlevideo.com": 1,
   "gstatic.com": 1,
+  "@@encrypted-tbn0.gstatic.com": 1,
   "@@ssl.gstatic.com": 1,
   // Rule out fonts begin
   //"[!s].gstatic.com": 1,
