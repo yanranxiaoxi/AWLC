@@ -39,7 +39,7 @@ var domains = {
   "staticflickr.com": 1,
   "yimg.com": 1,
 // Google
-  "*.google": 1,
+  "google": 1,
   //"doubleclick.net": 1,
   "goo.gl": 1,
   "google.ae": 1,
