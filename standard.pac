@@ -1,9 +1,15 @@
-// Built by XiaoXi
-// https://github.com/CollageTomato/PersonalPAC
+/*
+  Algorithm-designed and Built with all the love in the world by XiaoXi.
+  Project homepage: https://github.com/CollageTomato/PersonalPAC
+  Thanks for: https://github.com/clowwindy/gfwlist2pac
+
+  ANNOTATION
+    Whitelists have higher priority than blacklists.
+*/
 
 var proxy = "SOCKS5 127.0.0.1:1080;";
 
-var domains = {
+var blacklist_domains = {
 // BBC
   "bbc.co.uk": 1,
   "bbci.co.uk": 1,
@@ -39,9 +45,10 @@ var domains = {
   "staticflickr.com": 1,
   "yimg.com": 1,
 // Google
-  "google": 1,
+  "domains.google": 1,
   //"doubleclick.net": 1,
   "goo.gl": 1,
+  "google": 1,
   "google.ae": 1,
   "google.am": 1,
   "google.as": 1,
@@ -103,8 +110,6 @@ var domains = {
   "gstatic.com": 1,
   "thinkwithgoogle.com": 1,
   "ytimg.com": 1,
-  "encrypted-tbn0.gstatic.com": 0,
-  "ssl.gstatic.com": 0,
 // Instagram
   "cdninstagram.com": 1,
   "instagram.com": 1,
@@ -127,6 +132,8 @@ var domains = {
   "pinterest.jp": 1,
   "pinterest.nl": 1,
   "pinterest.se": 1,
+// RawGit
+  "rawgit.com": 1,
 // Telegram
   "t.me": 1,
   "telegram.me": 1,
@@ -149,7 +156,14 @@ var domains = {
 // else
   "atdmt.com": 1,
   "greatfirewallofchina.org": 1,
-  "rawgit.com": 1
+};
+
+var whitelist_domains = {
+// Google
+  "fonts.googleapis.com": 1,
+  "fonts.gstatic.com": 1,
+  "ssl.gstatic.com": 1,
+  "www.gstatic.com": 1,
 };
 
 var direct = 'DIRECT;';
@@ -162,15 +176,23 @@ function FindProxyForURL(url, host) {
     pos = host.lastIndexOf('.', pos - 1);
     while(1) {
         if (pos <= 0) {
-            if (hasOwnProperty.call(domains, host)) {
-                return proxy;
+            if (hasOwnProperty.call(blacklist_domains, host)) {
+			    if (hasOwnProperty.call(whitelist_domains, host)) {
+				  return direct;
+				} else {
+				  return proxy;
+				}
             } else {
                 return direct;
             }
         }
         suffix = host.substring(pos + 1);
-        if (hasOwnProperty.call(domains, suffix)) {
-            return proxy;
+        if (hasOwnProperty.call(blacklist_domains, suffix)) {
+			if (hasOwnProperty.call(whitelist_domains, host)) {
+			  return direct;
+			} else {
+			  return proxy;
+			}
         }
         pos = host.lastIndexOf('.', pos - 1);
     }
