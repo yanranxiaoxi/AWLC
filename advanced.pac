@@ -10,6 +10,9 @@
 var proxy = "SOCKS5 127.0.0.1:1080;";
 
 var blacklist_domains = {
+
+//Here is banned domains
+
 // BBC
   "bbc.co.uk": 1,
   "bbci.co.uk": 1,
@@ -156,6 +159,31 @@ var blacklist_domains = {
 // else
   "atdmt.com": 1,
   "greatfirewallofchina.org": 1,
+
+//Here is slowed domains
+
+// Hostinger
+  "hostinger.co.uk": 1,
+  "hostinger.com": 1,
+  "hostinger.com.hk": 1,
+  "hostinger.io": 1,
+  "hostinger.jp": 1,
+// imgur
+  "i.imgur.com": 1,
+  "imgur.com": 1,
+  "s.imgur.com": 1,
+// Microsoft
+  "akamaized.net": 1,
+  "gfx.ms": 1,
+  "microsoft.com": 1,
+  "assets.onestore.ms": 1,
+  "s-microsoft.com": 1,
+// reddit
+  "reddit.com": 1,
+  "redditmedia.com": 1,
+  "redditstatic.com": 1,
+// else
+  "cdn.optimizely.com": 1,
 };
 
 var whitelist_domains = {
