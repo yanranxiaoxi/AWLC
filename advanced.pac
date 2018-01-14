@@ -112,7 +112,6 @@ var blacklist_domains = {
   "googlevideo.com": 1,
   "gstatic.com": 1,
   "thinkwithgoogle.com": 1,
-  "ytimg.com": 1,
 // Hentai online
   "erolord.com": 1,
 // Instagram
@@ -158,6 +157,7 @@ var blacklist_domains = {
 // Youtube
   "ggpht.com": 1,
   "youtube.com": 1,
+  "ytimg.com": 1,
 // else
   "atdmt.com": 1,
   "greatfirewallofchina.org": 1,
