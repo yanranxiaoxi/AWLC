@@ -110,6 +110,8 @@ var blacklist_domains = {
   "gstatic.com": 1,
   "thinkwithgoogle.com": 1,
   "ytimg.com": 1,
+// Hentai online
+  "erolord.com": 1,
 // Instagram
   "cdninstagram.com": 1,
   "instagram.com": 1,
