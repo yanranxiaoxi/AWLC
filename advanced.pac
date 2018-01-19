@@ -181,6 +181,8 @@ var blacklist_domains = {
   "clicktale.net": 1,
 // CloudFront
   "cloudfront.net": 1,
+// Gravatar
+  "gravatar.com": 1,
 // Hostinger
   "hostinger.co.uk": 1,
   "hostinger.com": 1,
@@ -205,6 +207,9 @@ var blacklist_domains = {
 // Segment
   "segment.com": 1,
   "segment.io": 1,
+// WordPress
+  "wordpress.com": 1,
+  "wp.com": 1,
 };
 
 var whitelist_domains = {
