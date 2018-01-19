@@ -165,6 +165,9 @@ var blacklist_domains = {
 
 //Here is slowed domains
 
+// Adobe
+  "adobe.com": 1,
+  "typekit.com": 1,
 // Atlassian
   "atlassian.com": 1,
   "bitbucket.org": 1,
