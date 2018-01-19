@@ -171,9 +171,14 @@ var blacklist_domains = {
   "statuspage.io": 1,
   "stride.com": 1,
   "trello.com": 1,
+// autopilot
+  "autopilothq.com": 1,
 // BlueConic
   "blueconic.com": 1,
   "blueconic.net": 1,
+// Clicktale
+  "clicktale.com": 1,
+  "clicktale.net": 1,
 // Hostinger
   "hostinger.co.uk": 1,
   "hostinger.com": 1,
@@ -189,6 +194,7 @@ var blacklist_domains = {
   "assets.onestore.ms": 1,
   "s-microsoft.com": 1,
 // Optimizely
+  "demandbase.com": 1,
   "optimizely.com": 1,
 // reddit
   "reddit.com": 1,
@@ -196,6 +202,7 @@ var blacklist_domains = {
   "redditstatic.com": 1,
 // Segment
   "segment.com": 1,
+  "segment.io": 1,
 };
 
 var whitelist_domains = {
