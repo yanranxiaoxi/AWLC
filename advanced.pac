@@ -17,8 +17,6 @@ var blacklist_domains = {
   "bbc.co.uk": 1,
   "bbci.co.uk": 1,
   "bbc.com": 1,
-// Bitbucket
-  "bitbucket.org": 1,
 // Blogger
   "blogger.com": 1,
   "blogspot.com": 1,
@@ -166,6 +164,8 @@ var blacklist_domains = {
 
 //Here is slowed domains
 
+// Bitbucket
+  "bitbucket.org": 1,
 // Hostinger
   "hostinger.co.uk": 1,
   "hostinger.com": 1,
