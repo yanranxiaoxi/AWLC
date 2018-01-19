@@ -145,6 +145,7 @@ var blacklist_domains = {
 // Tumblr
   "tumblr.com": 1,
 // Twitter
+  "ads-twitter.com": 1,
   "t.co": 1,
   "twimg.com": 1,
   "twitter.com": 1,
@@ -164,8 +165,12 @@ var blacklist_domains = {
 
 //Here is slowed domains
 
-// Bitbucket
+// Atlassian
+  "atlassian.com": 1,
   "bitbucket.org": 1,
+// BlueConic
+  "blueconic.com": 1,
+  "blueconic.net": 1,
 // Hostinger
   "hostinger.co.uk": 1,
   "hostinger.com": 1,
@@ -173,21 +178,21 @@ var blacklist_domains = {
   "hostinger.io": 1,
   "hostinger.jp": 1,
 // imgur
-  "i.imgur.com": 1,
   "imgur.com": 1,
-  "s.imgur.com": 1,
 // Microsoft
   "akamaized.net": 1,
   "gfx.ms": 1,
   "microsoft.com": 1,
   "assets.onestore.ms": 1,
   "s-microsoft.com": 1,
+// Optimizely
+  "optimizely.com": 1,
 // reddit
   "reddit.com": 1,
   "redditmedia.com": 1,
   "redditstatic.com": 1,
-// else
-  "cdn.optimizely.com": 1,
+// Segment
+  "segment.com": 1,
 };
 
 var whitelist_domains = {
