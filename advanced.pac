@@ -168,6 +168,9 @@ var blacklist_domains = {
 // Atlassian
   "atlassian.com": 1,
   "bitbucket.org": 1,
+  "statuspage.io": 1,
+  "stride.com": 1,
+  "trello.com": 1,
 // BlueConic
   "blueconic.com": 1,
   "blueconic.net": 1,
