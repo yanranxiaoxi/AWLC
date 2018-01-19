@@ -142,6 +142,7 @@ var blacklist_domains = {
 // Tumblr
   "tumblr.com": 1,
 // Twitter
+  "ads-twitter.com": 1,
   "t.co": 1,
   "twimg.com": 1,
   "twitter.com": 1,
