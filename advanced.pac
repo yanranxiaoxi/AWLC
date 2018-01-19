@@ -179,6 +179,8 @@ var blacklist_domains = {
 // Clicktale
   "clicktale.com": 1,
   "clicktale.net": 1,
+// CloudFront
+  "cloudfront.net": 1,
 // Hostinger
   "hostinger.co.uk": 1,
   "hostinger.com": 1,
