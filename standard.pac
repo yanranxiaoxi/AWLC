@@ -14,8 +14,6 @@ var blacklist_domains = {
   "bbc.co.uk": 1,
   "bbci.co.uk": 1,
   "bbc.com": 1,
-// Bitbucket
-  "bitbucket.org": 1,
 // Blogger
   "blogger.com": 1,
   "blogspot.com": 1,
