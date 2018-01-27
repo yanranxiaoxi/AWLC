@@ -138,6 +138,8 @@ var blacklist_domains = {
   "pinterest.se": 1,
 // RawGit
   "rawgit.com": 1,
+// Steam
+  "steamcommunity.com": 1,
 // Telegram
   "t.me": 1,
   "telegram.me": 1,
@@ -213,7 +215,6 @@ var blacklist_domains = {
   "segment.com": 1,
   "segment.io": 1,
 // Steam
-  "steamcommunity.com": 1,
   "steampowered.com": 1,
 // WordPress
   "wordpress.com": 1,
