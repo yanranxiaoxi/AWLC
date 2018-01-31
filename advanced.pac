@@ -172,8 +172,8 @@ var blacklist_domains = {
   "adobe.com": 1,
   "typekit.com": 1,
 // Akamai
-  "akamai.com": 1
-  "akamaihd.net": 1
+  "akamai.com": 1,
+  "akamaihd.net": 1,
   "akamaized.net": 1,
 // Atlassian
   "atlassian.com": 1,
