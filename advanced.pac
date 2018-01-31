@@ -124,7 +124,6 @@ var blacklist_domains = {
   "static.line.naver.jp": 1,
 // OneDrive
   "onedrive.live.com": 1,
-  "spoprod-a.akamaihd.net": 1,
 // Pinterest
   "pinimg.com": 1,
   "pinterest.at": 1,
@@ -172,6 +171,10 @@ var blacklist_domains = {
 // Adobe
   "adobe.com": 1,
   "typekit.com": 1,
+// Akamai
+  "akamai.com": 1
+  "akamaihd.net": 1
+  "akamaized.net": 1,
 // Atlassian
   "atlassian.com": 1,
   "bitbucket.org": 1,
@@ -199,7 +202,6 @@ var blacklist_domains = {
 // imgur
   "imgur.com": 1,
 // Microsoft
-  "akamaized.net": 1,
   "gfx.ms": 1,
   "microsoft.com": 1,
   "assets.onestore.ms": 1,

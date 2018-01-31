@@ -121,7 +121,6 @@ var blacklist_domains = {
   "static.line.naver.jp": 1,
 // OneDrive
   "onedrive.live.com": 1,
-  "spoprod-a.akamaihd.net": 1,
 // Pinterest
   "pinimg.com": 1,
   "pinterest.at": 1,
