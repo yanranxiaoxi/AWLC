@@ -190,6 +190,8 @@ var blacklist_domains = {
 // Clicktale
   "clicktale.com": 1,
   "clicktale.net": 1,
+// Cloudflare
+  "cloudflare.com": 1,
 // CloudFront
   "cloudfront.net": 1,
 // Gravatar
