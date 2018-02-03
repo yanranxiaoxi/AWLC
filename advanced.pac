@@ -202,7 +202,7 @@ var blacklist_domains = {
   "hostinger.com.hk": 1,
   "hostinger.io": 1,
   "hostinger.jp": 1,
-// imgur
+// Imgur
   "imgur.com": 1,
 // Microsoft
   "gfx.ms": 1,
