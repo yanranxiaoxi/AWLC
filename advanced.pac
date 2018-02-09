@@ -194,6 +194,8 @@ var blacklist_domains = {
   "cloudflare.com": 1,
 // CloudFront
   "cloudfront.net": 1,
+// ExHentai
+  "exhentai.org": 1,
 // Gravatar
   "gravatar.com": 1,
 // Hostinger
