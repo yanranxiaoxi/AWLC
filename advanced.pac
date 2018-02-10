@@ -187,6 +187,8 @@ var blacklist_domains = {
 // BlueConic
   "blueconic.com": 1,
   "blueconic.net": 1,
+// box
+  "box.com": 1,
 // Clicktale
   "clicktale.com": 1,
   "clicktale.net": 1,
