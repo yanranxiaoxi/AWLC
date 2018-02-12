@@ -22,6 +22,8 @@ var blacklist_domains = {
   "blogspot.com": 1,
   "blogspot.hk": 1,
   "blogspot.jp": 1,
+// box
+  "box.com": 1,
 // Disqus
   "disqus.com": 1,
   "disquscdn.com": 1,
@@ -50,6 +52,7 @@ var blacklist_domains = {
 // Google
   "domains.google": 1,
   //"doubleclick.net": 1,
+  "g.co": 1,
   "goo.gl": 1,
   "google": 1,
   "google.ae": 1,
@@ -187,8 +190,6 @@ var blacklist_domains = {
 // BlueConic
   "blueconic.com": 1,
   "blueconic.net": 1,
-// box
-  "box.com": 1,
 // Clicktale
   "clicktale.com": 1,
   "clicktale.net": 1,
