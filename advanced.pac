@@ -227,7 +227,7 @@ var blacklist_domains = {
   "segment.com": 1,
   "segment.io": 1,
 // Steam
-  //"steampowered.com": 1,
+  "steampowered.com": 1,
 // WordPress
   "wordpress.com": 1,
   "wp.com": 1,
