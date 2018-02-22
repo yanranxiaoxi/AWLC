@@ -109,6 +109,7 @@ var blacklist_domains = {
   "google.vu": 1,
   "google.ws": 1,
   "googleapis.com": 1,
+  "googleblog.com": 1,
   //"googletagmanager.com": 1,
   //"googletagservices.com": 1,
   "googlesyndication.com": 1,
