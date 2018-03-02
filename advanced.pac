@@ -175,6 +175,7 @@ var blacklist_domains = {
 
 // 500px
   "500px.com": 1,
+  "500px.org": 1,
 // Adobe
   "adobe.com": 1,
   "typekit.com": 1,
@@ -207,6 +208,8 @@ var blacklist_domains = {
   "flaticon.com": 1,
 // GitHub
   "github.com": 1,
+// GoDaddy
+  "godaddy.com": 1,
 // Gravatar
   "gravatar.com": 1,
 // Hostinger
