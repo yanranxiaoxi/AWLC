@@ -237,6 +237,8 @@ var blacklist_domains = {
 // Segment
   "segment.com": 1,
   "segment.io": 1,
+// Sony
+  "sony.com": 1,
 // Steam
   "steampowered.com": 1,
 // WordPress
