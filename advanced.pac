@@ -225,6 +225,8 @@ var blacklist_domains = {
 // Optimizely
   "demandbase.com": 1,
   "optimizely.com": 1,
+// QR CODE GENERATOR
+  "online-qrcode-generator.com": 1,
 // reddit
   "reddit.com": 1,
   "redditmedia.com": 1,
