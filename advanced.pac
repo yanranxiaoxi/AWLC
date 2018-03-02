@@ -173,6 +173,8 @@ var blacklist_domains = {
 
 //Here is slowed domains
 
+// 500px
+  "500px.com": 1,
 // Adobe
   "adobe.com": 1,
   "typekit.com": 1,
@@ -199,6 +201,7 @@ var blacklist_domains = {
 // CloudFront
   "cloudfront.net": 1,
 // ExHentai
+  "e-hentai.org": 1,
   "exhentai.org": 1,
 // Flaticon
   "flaticon.com": 1,
