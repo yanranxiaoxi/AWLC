@@ -202,6 +202,8 @@ var blacklist_domains = {
   "exhentai.org": 1,
 // Flaticon
   "flaticon.com": 1,
+// GitHub
+  "github.com": 1,
 // Gravatar
   "gravatar.com": 1,
 // Hostinger
