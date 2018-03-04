@@ -242,7 +242,9 @@ var blacklist_domains = {
 // Steam
   "steampowered.com": 1,
 // WordPress
+  "w.org": 1,
   "wordpress.com": 1,
+  "wordpress.org": 1,
   "wp.com": 1,
 };
 
