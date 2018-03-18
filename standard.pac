@@ -154,6 +154,9 @@ var blacklist_domains = {
   "twimg.com": 1,
   "twitter.com": 1,
   "twitter.jp": 1,
+// Vimeo
+  "vimeo.com": 1,
+  //"vimeocdn.com": 1,
 // WhatsApp
   "whatsapp.com": 1,
   "whatsapp.net": 1,
