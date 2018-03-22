@@ -73,6 +73,7 @@ var blacklist_domains = {
   "google.co.ma": 1,
   "google.com": 1,
   "google.com.ar": 1,
+  "google.com.ph": 1,
   "google.de": 1,
   "google.dj": 1,
   "google.dk": 1,
