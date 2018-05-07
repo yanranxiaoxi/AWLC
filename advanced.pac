@@ -245,6 +245,8 @@ var blacklist_domains = {
   "sony.com": 1,
 // Steam
   "steampowered.com": 1,
+// Uptime Robot
+  "uptimerobot.com": 1,
 // WordPress
   "w.org": 1,
   "wordpress.com": 1,
