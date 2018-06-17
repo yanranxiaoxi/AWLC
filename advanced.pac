@@ -195,6 +195,8 @@ var blacklist_domains = {
   "trello.com": 1,
 // autopilot
   "autopilothq.com": 1,
+// BackBlaze
+  "backblaze.com": 1,
 // BlueConic
   "blueconic.com": 1,
   "blueconic.net": 1,
