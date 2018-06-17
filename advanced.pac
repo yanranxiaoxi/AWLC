@@ -210,6 +210,7 @@ var blacklist_domains = {
 // CloudFront
   "cloudfront.net": 1,
 // ExHentai
+  "ehtracker.org": 1,
   "exhentai.org": 1,
 // Flaticon
   "flaticon.com": 1,
