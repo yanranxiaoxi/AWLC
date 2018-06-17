@@ -33,6 +33,8 @@ var blacklist_domains = {
   "dropboxusercontent.com": 1,
 // DuckDuckGo
   "duckduckgo.com": 1,
+// ExHentai
+  "e-hentai.org": 1,
 // Facebook
   "facebook.br": 1,
   "facebook.com": 1,
@@ -208,7 +210,6 @@ var blacklist_domains = {
 // CloudFront
   "cloudfront.net": 1,
 // ExHentai
-  "e-hentai.org": 1,
   "exhentai.org": 1,
 // Flaticon
   "flaticon.com": 1,
