@@ -233,6 +233,8 @@ var blacklist_domains = {
   "microsoft.com": 1,
   "assets.onestore.ms": 1,
   "s-microsoft.com": 1,
+// MIMEMI
+  "mimemi.org": 1,
 // Optimizely
   "demandbase.com": 1,
   "optimizely.com": 1,
