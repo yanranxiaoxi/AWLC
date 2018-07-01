@@ -142,6 +142,8 @@ var blacklist_domains = {
   "pinterest.se": 1,
 // RawGit
   "rawgit.com": 1,
+// Shadowsocks
+  "shadowsocks.org": 1,
 // Steam
   "steamcommunity.com": 1,
 // Telegram
