@@ -143,6 +143,8 @@ var blacklist_domains = {
   "pinterest.jp": 1,
   "pinterest.nl": 1,
   "pinterest.se": 1,
+// pixiv
+  "pixiv.net": 1,
 // RawGit
   "rawgit.com": 1,
 // Shadowsocks
@@ -170,7 +172,7 @@ var blacklist_domains = {
   "whatsapp.com": 1,
   "whatsapp.net": 1,
 // Wikipedia
-  "zh.wikipedia.org": 1,
+  "wikipedia.org": 1,
 // Youtube
   "ggpht.com": 1,
   "youtube.com": 1,
