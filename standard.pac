@@ -142,6 +142,7 @@ var blacklist_domains = {
   "pinterest.se": 1,
 // pixiv
   "pixiv.net": 1,
+  //"pximg.net": 1,
 // RawGit
   "rawgit.com": 1,
 // Shadowsocks
