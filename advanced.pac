@@ -222,6 +222,7 @@ var blacklist_domains = {
   "flaticon.com": 1,
 // GitHub
   "github.com": 1,
+  "githubusercontent.com": 1,
 // GoDaddy
   "godaddy.com": 1,
 // Gravatar
