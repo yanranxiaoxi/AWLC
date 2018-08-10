@@ -1,6 +1,6 @@
 /*
   Algorithm-designed and Built with all the love in the world by XiaoXi.
-  Project homepage: https://github.com/CollageTomato/PersonalPAC
+  Project homepage: https://github.com/yanranxiaoxi/AWLC
   Thanks for: https://github.com/clowwindy/gfwlist2pac
 
   ANNOTATION
