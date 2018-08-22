@@ -55,9 +55,10 @@ var blacklist_domains = {
   "domains.google": 1,
   //"doubleclick.net": 1,
   "g.co": 1,
+  "ggpht.com": 1,
+  "gmail.com": 1,
   "goo.gl": 1,
   "google": 1,
-  "gmail.com": 1,
   "google.ae": 1,
   "google.am": 1,
   "google.as": 1,
@@ -95,6 +96,7 @@ var blacklist_domains = {
   "google.lv": 1,
   "google.mn": 1,
   "google.ms": 1,
+  "google.net": 1,
   "google.nl": 1,
   "google.no": 1,
   "google.nu": 1,
@@ -129,6 +131,8 @@ var blacklist_domains = {
   //"google-analytics.com": 1,
   "gstatic.com": 1,
   "thinkwithgoogle.com": 1,
+  "youtube.com": 1,
+  "ytimg.com": 1,
 // Hentai online
   "erolord.com": 1,
 // Instagram
@@ -186,10 +190,6 @@ var blacklist_domains = {
   "whatsapp.net": 1,
 // Wikipedia
   "wikipedia.org": 1,
-// Youtube
-  "ggpht.com": 1,
-  "youtube.com": 1,
-  "ytimg.com": 1,
 // else
   "atdmt.com": 1,
   "greatfirewallofchina.org": 1,
