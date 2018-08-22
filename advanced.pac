@@ -52,7 +52,9 @@ var blacklist_domains = {
   "staticflickr.com": 1,
   "yimg.com": 1,
 // Google
-  "domains.google": 1,
+  "android.com": 1,
+  "chromium.org": 1,
+  "deepmind.com": 1,
   //"doubleclick.net": 1,
   "g.co": 1,
   "ggpht.com": 1,
@@ -72,13 +74,18 @@ var blacklist_domains = {
   "google.ci": 1,
   //"google.cn": 1,
   "google.co.id": 1,
+  "google.co.in": 1,
   "google.co.jp": 1,
   "google.co.kr": 1,
   "google.co.ma": 1,
   "google.com": 1,
   "google.com.ar": 1,
+  "google.com.au": 1,
+  "google.com.hk": 1,
   "google.com.my": 1,
   "google.com.ph": 1,
+  "google.com.tw": 1,
+  "google.cz": 1,
   "google.de": 1,
   "google.dj": 1,
   "google.dk": 1,
@@ -89,6 +96,7 @@ var blacklist_domains = {
   "google.gg": 1,
   "google.gl": 1,
   "google.gr": 1,
+  "google.hk": 1,
   "google.ie": 1,
   "google.info": 1,
   "google.is": 1,
@@ -137,6 +145,7 @@ var blacklist_domains = {
   "gstatic.com": 1,
   "gsuite.com": 1,
   "thinkwithgoogle.com": 1,
+  "withgoogle.com": 1,
   "youtube.com": 1,
   "ytimg.com": 1,
 // Hentai online
@@ -149,7 +158,7 @@ var blacklist_domains = {
   "line-apps.com": 1,
   "line-scdn.net": 1,
   "static.line.naver.jp": 1,
-// OneDrive
+// Microsoft
   "onedrive.live.com": 1,
 // Pinterest
   "pinimg.com": 1,
@@ -178,6 +187,8 @@ var blacklist_domains = {
   "telegram.me": 1,
   "telegram.org": 1,
   "telesco.pe": 1,
+// The New York Times
+  "nytimes.com": 1,
 // Tor Project
   "torproject.org": 1,
 // Tumblr
@@ -196,9 +207,6 @@ var blacklist_domains = {
   "whatsapp.net": 1,
 // Wikipedia
   "wikipedia.org": 1,
-// else
-  "atdmt.com": 1,
-  "greatfirewallofchina.org": 1,
 
 //Here is slowed domains
 
@@ -242,6 +250,8 @@ var blacklist_domains = {
   "githubusercontent.com": 1,
 // GoDaddy
   "godaddy.com": 1,
+// Google
+  "material.io": 1,
 // Gravatar
   "gravatar.com": 1,
 // Hostinger
@@ -253,9 +263,12 @@ var blacklist_domains = {
 // Imgur
   "imgur.com": 1,
 // Microsoft
+  "atdmt.com": 1,
   "gfx.ms": 1,
+  "live.com": 1,
   "microsoft.com": 1,
-  "assets.onestore.ms": 1,
+  "onestore.ms": 1,
+  "sharepoint.com": 1,
   "s-microsoft.com": 1,
 // MIMEMI
   "mimemi.org": 1,
@@ -275,6 +288,8 @@ var blacklist_domains = {
   "sony.com": 1,
 // Steam
   "steampowered.com": 1,
+// The New York Times
+  "nyt.com": 1,
 // Twitch
   "jtvnw.net": 1,
   "ttvnw.net": 1,
