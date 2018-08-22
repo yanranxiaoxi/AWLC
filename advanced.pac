@@ -57,6 +57,7 @@ var blacklist_domains = {
   "g.co": 1,
   "goo.gl": 1,
   "google": 1,
+  "gmail.com": 1,
   "google.ae": 1,
   "google.am": 1,
   "google.as": 1,
@@ -97,6 +98,7 @@ var blacklist_domains = {
   "google.nl": 1,
   "google.no": 1,
   "google.nu": 1,
+  "google.org": 1,
   "google.ro": 1,
   "google.ru": 1,
   "google.rw": 1,
@@ -113,11 +115,18 @@ var blacklist_domains = {
   "google.ws": 1,
   "googleapis.com": 1,
   "googleblog.com": 1,
+  "googledrive.com": 1,
+  "googlemail.com": 1,
+  "googlemaps.com": 1,
+  "googlephotos.com": 1,
+  "googleplay.com": 1,
+  "googleplus.com": 1,
   //"googletagmanager.com": 1,
   //"googletagservices.com": 1,
   "googlesyndication.com": 1,
   "googleusercontent.com": 1,
   "googlevideo.com": 1,
+  //"google-analytics.com": 1,
   "gstatic.com": 1,
   "thinkwithgoogle.com": 1,
 // Hentai online
@@ -260,8 +269,17 @@ var blacklist_domains = {
   "sony.com": 1,
 // Steam
   "steampowered.com": 1,
+// Twitch
+  "jtvnw.net": 1,
+  "ttvnw.net": 1,
+  "twitch.com": 1,
+  "twitchcdn.net": 1,
+  "twitchsvc.net": 1,
 // Uptime Robot
   "uptimerobot.com": 1,
+// VK
+  "userapi.com": 1,
+  "vk.com": 1,
 // Vultr
   "vultr.com": 1,
 // WordPress
