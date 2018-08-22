@@ -125,6 +125,8 @@ var blacklist_domains = {
   "google.ws": 1,
   "googleapis.com": 1,
   "googleblog.com": 1,
+  "googlecloud.com": 1,
+  "googledomains.com": 1,
   "googledrive.com": 1,
   "googlemail.com": 1,
   "googlemaps.com": 1,
