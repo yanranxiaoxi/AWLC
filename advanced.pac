@@ -146,6 +146,8 @@ var blacklist_domains = {
 // pixiv
   "pixiv.net": 1,
   //"pximg.net": 1,
+// Pornhub
+  "pornhub.com": 1,
 // RawGit
   "rawgit.com": 1,
 // Shadowsocks
