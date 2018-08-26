@@ -277,6 +277,8 @@ var blacklist_domains = {
 // Optimizely
   "demandbase.com": 1,
   "optimizely.com": 1,
+// Pornhub
+  "phncdn.com": 1,
 // QR CODE GENERATOR
   "online-qrcode-generator.com": 1,
 // reddit
