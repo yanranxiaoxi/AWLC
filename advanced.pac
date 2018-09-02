@@ -152,7 +152,7 @@ var blacklist_domains = {
   "withgoogle.com": 1,
   "youtube.com": 1,
   "ytimg.com": 1,
-// Hentai online
+// EL Combo
   "erolord.com": 1,
 // Instagram
   "cdninstagram.com": 1,
@@ -214,6 +214,8 @@ var blacklist_domains = {
 
 //Here is slowed domains
 
+// 000webhost
+  "000webhost.com": 1,
 // 500px
   "500px.com": 1,
   "500px.org": 1,
