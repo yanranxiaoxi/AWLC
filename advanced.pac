@@ -278,6 +278,9 @@ var blacklist_domains = {
   "s-microsoft.com": 1,
 // MIMEMI
   "mimemi.org": 1,
+// Netflix
+  "netflix.com": 1,
+  "nflxext.com": 1,
 // Optimizely
   "demandbase.com": 1,
   "optimizely.com": 1,
