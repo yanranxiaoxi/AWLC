@@ -249,6 +249,8 @@ var blacklist_domains = {
 // ExHentai
   "ehtracker.org": 1,
   "exhentai.org": 1,
+// FastPanel
+  "fastpanel.direct": 1,
 // Flaticon
   "flaticon.com": 1,
 // GitHub
