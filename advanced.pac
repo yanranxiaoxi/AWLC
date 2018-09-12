@@ -208,6 +208,8 @@ var blacklist_domains = {
 // Vimeo
   "vimeo.com": 1,
   //"vimeocdn.com": 1,
+// VirMach
+  "virmach.com": 1,
 // WhatsApp
   "whatsapp.com": 1,
   "whatsapp.net": 1,
