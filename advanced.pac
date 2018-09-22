@@ -335,6 +335,8 @@ var blacklist_domains = {
   "wordpress.com": 1,
   "wordpress.org": 1,
   "wp.com": 1,
+// Yahoo
+  "yahoo.com": 1,
 };
 
 var whitelist_domains = {
