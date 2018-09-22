@@ -161,6 +161,8 @@ var blacklist_domains = {
   "line-apps.com": 1,
   "line-scdn.net": 1,
   "static.line.naver.jp": 1,
+// Mega
+  "mega.nz": 1,
 // Microsoft
   "onedrive.live.com": 1,
 // Pinterest
