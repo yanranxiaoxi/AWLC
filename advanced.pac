@@ -24,11 +24,11 @@ var blacklist_domains = {
   "blogspot.jp": 1,
 // box
   "box.com": 1,
+// Discord
+  "discordapp.com": 1,
 // Disqus
   "disqus.com": 1,
   "disquscdn.com": 1,
-// Discord
-  "discordapp.com": 1,
 // Doub
   "doub.io": 1,
 // Dropbox
