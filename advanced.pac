@@ -283,6 +283,8 @@ var blacklist_domains = {
   "gfx.ms": 1,
   "live.com": 1,
   "microsoft.com": 1,
+  "office.com": 1,
+  "officeonline.com": 1,
   "onestore.ms": 1,
   "sharepoint.com": 1,
   "s-microsoft.com": 1,
@@ -307,6 +309,8 @@ var blacklist_domains = {
   "segment.io": 1,
 // Sony
   "sony.com": 1,
+// Sponge
+  "spongepowered.org": 1,
 // Steam
   "steampowered.com": 1,
 // The New York Times
