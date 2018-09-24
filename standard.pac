@@ -60,6 +60,7 @@ var blacklist_domains = {
   "deepmind.com": 1,
   //"doubleclick.net": 1,
   "g.co": 1,
+  "get.app": 1,
   "ggpht.com": 1,
   "gmail.com": 1,
   "goo.gl": 1,
