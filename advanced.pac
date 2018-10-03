@@ -40,11 +40,9 @@ var blacklist_domains = {
 // ExHentai
   "e-hentai.org": 1,
 // Facebook
-  "facebook.br": 1,
   "facebook.com": 1,
   "facebook.hu": 1,
   "facebook.in": 1,
-  "facebook.net": 1,
   "facebook.nl": 1,
   "facebook.se": 1,
   "fb.com": 1,
@@ -186,6 +184,7 @@ var blacklist_domains = {
   "line-scdn.net": 1,
   "static.line.naver.jp": 1,
 // Mega
+  "mega.co.nz": 1,
   "mega.nz": 1,
 // Microsoft
   "onedrive.live.com": 1,
