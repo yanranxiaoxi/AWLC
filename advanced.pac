@@ -394,11 +394,6 @@ var blacklist_domains = {
 };
 
 var whitelist_domains = {
-// Google
-  "fonts.googleapis.com": 1,
-  "fonts.gstatic.com": 1,
-  "ssl.gstatic.com": 1,
-  "www.gstatic.com": 1,
 };
 
 var direct = 'DIRECT;';
