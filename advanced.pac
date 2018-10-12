@@ -384,6 +384,8 @@ var blacklist_domains = {
   "vk.com": 1,
 // Vultr
   "vultr.com": 1,
+// WootHosting
+  "woothosting.com": 1,
 // WordPress
   "w.org": 1,
   "wordpress.com": 1,
