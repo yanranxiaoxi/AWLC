@@ -61,6 +61,7 @@ var blacklist_domains = {
   "adwords.net": 1,
   "adwords.org": 1,
   "android.com": 1,
+  "appspot.com": 1,
   "chromium.org": 1,
   "deepmind.com": 1,
   "domains.google": 1,
@@ -370,6 +371,7 @@ var blacklist_domains = {
   "godaddy.com": 1,
 // Google
   "blog.google": 1,
+  "chromium.org": 1,
   "hstspreload.org": 1,
   "material.io": 1,
 // Gravatar
