@@ -101,6 +101,7 @@ var blacklist_domains = {
   "google.co.ma": 1,
   "google.co.nz": 1,
   "google.co.th": 1,
+  "google.co.tz": 1,
   "google.co.ug": 1,
   "google.co.uk": 1,
   "google.co.uz": 1,
