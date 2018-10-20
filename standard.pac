@@ -58,6 +58,7 @@ var blacklist_domains = {
   "adwords.net": 1,
   "adwords.org": 1,
   "android.com": 1,
+  "appspot.com": 1,
   "chromium.org": 1,
   "deepmind.com": 1,
   "domains.google": 1,
