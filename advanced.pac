@@ -63,13 +63,13 @@ var blacklist_domains = {
   "android.com": 1,
   "chromium.org": 1,
   "deepmind.com": 1,
+  "domains.google": 1,
   //"doubleclick.net": 1,
   "g.co": 1,
   "get.app": 1,
   "ggpht.com": 1,
   "gmail.com": 1,
   "goo.gl": 1,
-  "google": 1,
   "google.ae": 1,
   "google.am": 1,
   "google.as": 1,
@@ -368,6 +368,8 @@ var blacklist_domains = {
 // GoDaddy
   "godaddy.com": 1,
 // Google
+  "blog.google": 1,
+  "hstspreload.org": 1,
   "material.io": 1,
 // Gravatar
   "gravatar.com": 1,
