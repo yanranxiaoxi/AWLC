@@ -353,7 +353,7 @@ var blacklist_domains = {
   "clicktale.com": 1,
   "clicktale.net": 1,
 // Cloudflare
-  "cloudflare.com": 1,
+  //"cloudflare.com": 1,
 // CloudFront
   "cloudfront.net": 1,
 // ExHentai
