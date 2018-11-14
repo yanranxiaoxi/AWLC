@@ -55,8 +55,9 @@ var blacklist_domains = {
   "flickr.com": 1,
   "staticflickr.com": 1,
   "yimg.com": 1,
-// Google
+// Alphabet
   "466453.com": 1,
+  "abc.xyz": 1,
   "adwords.com": 1,
   "adwords.net": 1,
   "adwords.org": 1,
@@ -369,7 +370,7 @@ var blacklist_domains = {
   "githubusercontent.com": 1,
 // GoDaddy
   "godaddy.com": 1,
-// Google
+// Alphabet
   "blog.google": 1,
   "chromium.org": 1,
   "hstspreload.org": 1,
