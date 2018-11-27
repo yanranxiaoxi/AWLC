@@ -507,6 +507,8 @@ var blacklist_domains = {
   //"cloudflare.com": 1,
 // CloudFront
   "cloudfront.net": 1,
+// DigitalOcean
+  "digitalocean.com": 1,
 // ExHentai
   "ehtracker.org": 1,
   "exhentai.org": 1,
