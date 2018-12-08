@@ -516,6 +516,8 @@ var blacklist_domains = {
   "fastpanel.direct": 1,
 // Flaticon
   "flaticon.com": 1,
+// GitBook
+  "gitbook.com": 1,
 // GitHub
   "github.com": 1,
   "github.io": 1,
