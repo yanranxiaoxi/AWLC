@@ -381,7 +381,6 @@ var blacklist_domains = {
   "mega.co.nz": 1,
   "mega.nz": 1,
 // Microsoft
-  "bing.com": 1,
   "onedrive.live.com": 1,
 // Pinterest
   "pin.it": 1,
