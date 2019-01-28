@@ -384,7 +384,6 @@ var blacklist_domains = {
   "mega.co.nz": 1,
   "mega.nz": 1,
 // Microsoft
-  "bing.com": 1,
   "onedrive.live.com": 1,
 // Pinterest
   "pin.it": 1,
@@ -459,6 +458,10 @@ var blacklist_domains = {
   "torproject.org": 1,
 // Tumblr
   "tumblr.com": 1,
+// Twitch
+  "twitch.tv": 1,
+  "twitchcdn.net": 1,
+  "twitchsvc.net": 1,
 // Twitter
   "ads-twitter.com": 1,
   "t.co": 1,
