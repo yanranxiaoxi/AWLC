@@ -618,6 +618,8 @@ var blacklist_domains = {
   "steampowered.com": 1,
 // The New York Times
   "nyt.com": 1,
+// TwitCasting
+  "twitcasting.tv": 1,
 // Twitch
   "jtvnw.net": 1,
   "ttvnw.net": 1,
