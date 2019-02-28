@@ -456,6 +456,9 @@ var blacklist_domains = {
 // Tumblr
   "tumblr.com": 1,
 // Twitch
+  "jtvnw.net": 1,
+  "ttvnw.net": 1,
+  "twitch.com": 1,
   "twitch.tv": 1,
   "twitchcdn.net": 1,
   "twitchsvc.net": 1,
