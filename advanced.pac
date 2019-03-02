@@ -596,7 +596,9 @@ var blacklist_domains = {
   "onestore.ms": 1,
   "outlook.com": 1,
   "sharepoint.com": 1,
+  "skype.com": 1,
   "s-microsoft.com": 1,
+  "xbox.com": 1,
 // Netflix
   "netflix.com": 1,
   "nflxext.com": 1,
