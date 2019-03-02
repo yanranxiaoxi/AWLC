@@ -10,43 +10,6 @@
 var proxy = "SOCKS5 127.0.0.1:1080;";
 
 var blacklist_domains = {
-// BBC
-  "bbc.co.uk": 1,
-  "bbci.co.uk": 1,
-  "bbc.com": 1,
-// box
-  "box.com": 1,
-// Discord
-  "discordapp.com": 1,
-// Disqus
-  "disqus.com": 1,
-  "disquscdn.com": 1,
-// Doub
-  "doub.io": 1,
-// Dropbox
-  "dropbox.com": 1,
-  "dropboxstatic.com": 1,
-  "dropboxusercontent.com": 1,
-// DuckDuckGo
-  "duckduckgo.com": 1,
-// ExHentai
-  "e-hentai.org": 1,
-// Facebook
-  "facebook.com": 1,
-  "facebook.hu": 1,
-  "facebook.in": 1,
-  "facebook.nl": 1,
-  "facebook.se": 1,
-  "fb.com": 1,
-  "fb.me": 1,
-  "fbcdn.net": 1,
-  "fbsbx.com": 1,
-// Firefox
-  "send.firefox.com": 1,
-// Flickr
-  "flickr.com": 1,
-  "staticflickr.com": 1,
-  "yimg.com": 1,
 // Alphabet
   "1ucrs.com": 1,
   "466453.com": 1,
@@ -367,6 +330,43 @@ var blacklist_domains = {
   "youtube.com": 1,
   "ytimg.com": 1,
   "zynamics.com": 1,
+// BBC
+  "bbc.co.uk": 1,
+  "bbci.co.uk": 1,
+  "bbc.com": 1,
+// box
+  "box.com": 1,
+// Discord
+  "discordapp.com": 1,
+// Disqus
+  "disqus.com": 1,
+  "disquscdn.com": 1,
+// Doub
+  "doub.io": 1,
+// Dropbox
+  "dropbox.com": 1,
+  "dropboxstatic.com": 1,
+  "dropboxusercontent.com": 1,
+// DuckDuckGo
+  "duckduckgo.com": 1,
+// ExHentai
+  "e-hentai.org": 1,
+// Facebook
+  "facebook.com": 1,
+  "facebook.hu": 1,
+  "facebook.in": 1,
+  "facebook.nl": 1,
+  "facebook.se": 1,
+  "fb.com": 1,
+  "fb.me": 1,
+  "fbcdn.net": 1,
+  "fbsbx.com": 1,
+// Firefox
+  "send.firefox.com": 1,
+// Flickr
+  "flickr.com": 1,
+  "staticflickr.com": 1,
+  "yimg.com": 1,
 // EL Combo
   "erolord.com": 1,
 // Instagram
