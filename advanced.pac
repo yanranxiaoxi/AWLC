@@ -603,6 +603,8 @@ var blacklist_domains = {
 // Netflix
   "netflix.com": 1,
   "nflxext.com": 1,
+// Nextcloud
+  "nextcloud.com": 1,
 // Optimizely
   "demandbase.com": 1,
   "optimizely.com": 1,
