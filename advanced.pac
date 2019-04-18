@@ -629,6 +629,9 @@ var blacklist_domains = {
   "nyt.com": 1,
 // TwitCasting
   "twitcasting.tv": 1,
+// Ubisoft
+  "ubi.com": 1,
+  "ubisoft.com": 1,
 // Uptime Robot
   "uptimerobot.com": 1,
 // VirMach
