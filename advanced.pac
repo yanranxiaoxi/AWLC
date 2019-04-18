@@ -616,6 +616,8 @@ var blacklist_domains = {
   "reddit.com": 1,
   "redditmedia.com": 1,
   "redditstatic.com": 1,
+// Rock Paper Shotgun
+  "rockpapershotgun.com": 1,
 // Segment
   "segment.com": 1,
   "segment.io": 1,
