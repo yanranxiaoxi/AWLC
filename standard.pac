@@ -328,6 +328,7 @@ var blacklist_domains = {
   "writely.com": 1,
   "xplr.co": 1,
   "youtube.com": 1,
+  "youtube-nocookie.com": 1,
   "ytimg.com": 1,
   "zynamics.com": 1,
 // BBC
@@ -480,10 +481,10 @@ var blacklist_domains = {
 };
 
 var whitelist_domains = {
-  //"fonts.googleapis.com": 1,
-  //"fonts.gstatic.com": 1,
-  //"ssl.gstatic.com": 1,
-  //"www.gstatic.com": 1,
+  "fonts.googleapis.com": 1,
+  "fonts.gstatic.com": 1,
+  "ssl.gstatic.com": 1,
+  "www.gstatic.com": 1,
 };
 
 var direct = 'DIRECT;';
