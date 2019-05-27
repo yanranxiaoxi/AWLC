@@ -534,6 +534,7 @@ var blacklist_domains = {
 // GitHub
   "github.com": 1,
   "github.io": 1,
+  "githubassets.com": 1,
   "githubusercontent.com": 1,
 // GoDaddy
   "godaddy.com": 1,
@@ -652,8 +653,6 @@ var blacklist_domains = {
   "vk.com": 1,
 // Vultr
   "vultr.com": 1,
-// WootHosting
-  "woothosting.com": 1,
 // WordPress
   "w.org": 1,
   "wordpress.com": 1,
@@ -664,10 +663,10 @@ var blacklist_domains = {
 };
 
 var whitelist_domains = {
-  "fonts.googleapis.com": 1,
-  "fonts.gstatic.com": 1,
-  "ssl.gstatic.com": 1,
-  "www.gstatic.com": 1,
+  //"fonts.googleapis.com": 1,
+  //"fonts.gstatic.com": 1,
+  //"ssl.gstatic.com": 1,
+  //"www.gstatic.com": 1,
 };
 
 var direct = 'DIRECT;';
