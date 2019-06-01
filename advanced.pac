@@ -345,8 +345,6 @@ var blacklist_domains = {
 // Disqus
   "disqus.com": 1,
   "disquscdn.com": 1,
-// Doub
-  "doub.io": 1,
 // Dropbox
   "dropbox.com": 1,
   "dropboxstatic.com": 1,
@@ -450,6 +448,7 @@ var blacklist_domains = {
   "steamcommunity.com": 1,
 // Telegram
   "t.me": 1,
+  "telegra.ph": 1,
   "telegram.me": 1,
   "telegram.org": 1,
   "telesco.pe": 1,
@@ -586,9 +585,11 @@ var blacklist_domains = {
   "imgur.com": 1,
 // Microsoft
   "atdmt.com": 1,
+  "azure.com": 1,
   "gfx.ms": 1,
   "live.com": 1,
   "microsoft.com": 1,
+  "microsoftazuresponsorships.com": 1,
   "microsoftonline.com": 1,
   "microsoftonline-p.com": 1,
   "msecnd.net": 1,
