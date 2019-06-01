@@ -342,8 +342,6 @@ var blacklist_domains = {
 // Disqus
   "disqus.com": 1,
   "disquscdn.com": 1,
-// Doub
-  "doub.io": 1,
 // Dropbox
   "dropbox.com": 1,
   "dropboxstatic.com": 1,
@@ -447,6 +445,7 @@ var blacklist_domains = {
   "steamcommunity.com": 1,
 // Telegram
   "t.me": 1,
+  "telegra.ph": 1,
   "telegram.me": 1,
   "telegram.org": 1,
   "telesco.pe": 1,
