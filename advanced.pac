@@ -653,8 +653,6 @@ var blacklist_domains = {
 // VK
   "userapi.com": 1,
   "vk.com": 1,
-// Vultr
-  "vultr.com": 1,
 // WordPress
   "w.org": 1,
   "wordpress.com": 1,
