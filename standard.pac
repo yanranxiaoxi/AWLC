@@ -436,6 +436,7 @@ var blacklist_domains = {
   "pixivision.net": 1,
   //"pximg.net": 1,
 // Pornhub
+  "phncdn.com": 1,
   "pornhub.com": 1,
 // RawGit
   "rawgit.com": 1,
