@@ -441,6 +441,9 @@ var blacklist_domains = {
 // Pornhub
   "phncdn.com": 1,
   "pornhub.com": 1,
+// Quora
+  "quora.com": 1,
+  "quoracdn.net": 1,
 // RawGit
   "rawgit.com": 1,
 // Shadowsocks
